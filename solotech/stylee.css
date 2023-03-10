@@ -1,0 +1,116 @@
+header{
+  background-image:url(bg.jpg);
+  background-size:cover;
+  height:60%;
+  width: 100%;
+  background-position:center;
+}
+h1{
+  color: white;
+  text transformation:uppercase;
+  font-size:400%;
+  display: inline;
+  padding-left: 10%;
+}
+h2{
+  color: white;
+  font-size: 250%;
+  padding-left: 10%;
+}
+h3{
+  color: white;
+  font-size: 200%;
+  padding-left: 10%;
+}
+h6{
+  font-size: 60%;
+  display: inline;
+}
+ul{
+  float: right;
+  font-size: 150%;
+  width: 60%; 
+}
+li{
+  display: inline;
+}
+a{
+  text-decoration: none;
+  color: white;
+  padding: 5px 15px;
+}
+a:hover{
+  background-color: rgb(200,51,90);
+  border: 1px solid rgb(200,51,90);
+  border-radius: 15px;
+}
+body
+{
+font-family:monospaces;
+}
+.img1{
+  float: right;
+  border: 1px solid white;
+  border-radius: 40px;
+  display: center;
+  height: 250px;
+  width: 500px;
+}
+.img2{
+  float: left;
+  border: 1px solid white;
+  border-radius: 40px;
+  display: center;
+  height: 250px;
+  width: 500px;
+}
+section{
+  padding: 5%;
+  height: 40%;
+}
+.article1{
+  float:left;
+  width: 50%;
+  font-size: 225%;
+  text-align: justify;
+}
+.article2{
+  float:right;
+  width: 50%;
+  font-size: 225%;
+  text-align: justify;
+}
+aside{
+  padding: 5%;
+  height: 30%;
+}
+span{
+  padding: 6%;
+  font-size: 300%;
+}
+.img3{
+  float: left;
+  height: 250px;
+  width: 400px;
+  border: 1px solid white;
+  border-radius: 40px;
+}
+.article3{
+  float: right;
+  font-size: 200%;
+  width: 60%;
+  
+}
+.input{
+  text-align: left;
+  width: 500px;
+  padding: 20px;
+  border: none;
+  border-bottom: 2px solid red;
+}
+fieldset{
+  border: 2px solid red;
+  font-size: 200%;
+}
+
+
